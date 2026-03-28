@@ -12,4 +12,3 @@ fine = calculate_fine(book_title, days_overdue)
 print("Book:", book_title)
 print("Days overdue:", days_overdue)
 print("Fine: Rs.", float(fine))
-        
